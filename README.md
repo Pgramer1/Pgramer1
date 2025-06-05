@@ -34,13 +34,13 @@ I am a **Computer Science Student** passionate about **backend development** and
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-### 📌 Featured Projects
+<!-- ### 📌 Featured Projects
 🔹 **Anime Tracker** - A Spring Boot-based application to track anime using MyAnimeList API. [🔗 Repo](#)
 
-🔹 **Bank Management System** - A PostgreSQL-integrated Java project for banking operations. [🔗 Repo](#)
+🔹 **Bank Management System** - A PostgreSQL-integrated Java project for banking operations. [🔗 Repo](#) 
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)-->
 
 ### 🌟 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devanshsoni19)
