@@ -1,6 +1,6 @@
 ### Hi there, I'm Devansh Soni 👋
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding GIF">
+<!--<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding GIF">-->
 
 I am a **Computer Science Student** passionate about **backend development** and **full-stack projects**. I love solving problems, building applications, and learning new technologies.
 
